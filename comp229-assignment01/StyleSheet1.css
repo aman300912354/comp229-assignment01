@@ -1,0 +1,48 @@
+﻿
+    body {
+	
+    background-position: center top;
+	color:#FFFFFF;
+	background-color: #FFFFFF;
+	margin: auto;
+	text-align: center;
+	font-style: normal;
+	background-repeat: no-repeat;
+}
+	
+
+
+.auto-style1 {
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	text-decoration: underline blink;
+}
+.auto-style2 {
+	margin-top: 0px;
+}
+.auto-style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	text-decoration: underline blink;
+}
+.auto-style4 {
+	font-size: x-large;
+	font-weight: bold;
+}
+.auto-style5 {
+	text-decoration: none;
+}
+
+.auto-style6 {
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+.auto-style8 {
+	border-width: 0px;
+	vertical-align: middle;
+}
+
