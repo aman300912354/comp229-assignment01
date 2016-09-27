@@ -34,9 +34,9 @@
     </table>
     <div class="contact">
         <form>
-    <h1>Keep connected</h1>
-    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="www.facebook.com">facebook</asp:HyperLink><br />
-    
+    <h1>Keep connected</h1> 
+    <%--<asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="www.facebook.com">facebook</asp:HyperLink>--%><br />
+    <a href="https://facebook.com" name="facebook">facebook</a>
     <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="you tube info">youtube info</asp:HyperLink><br />
     
     <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="www.google.com">google</asp:HyperLink>

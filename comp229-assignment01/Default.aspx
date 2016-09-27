@@ -20,7 +20,7 @@
 
 
 
-            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="about me.aspx">about me </asp:HyperLink>
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="about.aspx">about me </asp:HyperLink>
             <br />
             <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="contact.aspx">contact </asp:HyperLink>
 
