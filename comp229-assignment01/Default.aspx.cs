@@ -13,5 +13,10 @@ namespace comp229_assignment01
         {
 
         }
+
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+
+        }
     }
 }

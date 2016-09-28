@@ -1,19 +1,25 @@
-﻿
-    body {
-	
-    background-position: center top;
-	color:#FFFFFF;
-	background-color: #FFFFFF;
-	margin: auto;
-	text-align: center;
-	font-style: normal;
-	background-repeat: no-repeat;
+﻿ /*Move the content on the coding of home page*/
+body {
+  background-image: url('../Assets/image.jpg');
+   padding-top: 50px;
+    padding-bottom: 20px;
+  background-size:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
 }
+.outer-wrap {
+	background-color:;
+	margin: auto;
+	padding: 0px;
+	float: none;
+	height: 750px;
+	width: 1400px;
 	
-
-
+}
 .auto-style1 {
-	
+	 color: black;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: medium;
 	font-weight: bold;
